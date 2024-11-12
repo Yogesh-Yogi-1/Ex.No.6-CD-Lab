@@ -51,16 +51,8 @@ return 0;
 # OUTPUT
 ### k.txt:
 ![Screenshot 2024-11-05 103357](https://github.com/user-attachments/assets/3db41e24-59a7-42e0-b1e9-8e60ba10f8e1)
-### Program output:
+## Program output:
 ![Screenshot 2024-11-05 103309](https://github.com/user-attachments/assets/494ad431-de2f-4608-8481-5d6880e40ed1)
-
-# OUTPUT
-k.txt file
-
-![380482546-e92c5e6e-5e02-4a40-b0f2-d6714aceb2ea](https://github.com/user-attachments/assets/e220dba2-be5f-40e5-8bce-724b73032fe0)
-
-# Program output:
-![380482578-aa5e2e38-a45f-4988-96ff-ab11a51ff0bf](https://github.com/user-attachments/assets/842e24ed-5e24-4b54-a4ee-4f8e48e9571f)
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
